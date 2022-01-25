@@ -10,6 +10,7 @@
 ## Table of Contents
 * [Motivation](#motivation)
 * [Participants](#participants)
+* [Prerequisite](#prerequisite)
 * [Reach Me Out](#reach-me-out)
     * [Dimas Adrian Mukti](#dimas-adrian-mukti)
     * [Team Aligness](#team-aligness)
