@@ -53,10 +53,10 @@
 
 >You can contact me through these platform
 
-[Twitter](https://twitter.com/berodimas) | [Instagram](https://www.instagram.com/berodimas/) | [Mail](dadrianm25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dimasam/) | [Portofolio](https://berodimas.netlify.app/)
+[Twitter](https://twitter.com/berodimas) | [Instagram](https://www.instagram.com/berodimas/) | [Mail](mailto:dadrianm25@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [LinkedIn](https://www.linkedin.com/in/dimasam/) | [Portofolio](https://berodimas.netlify.app/)
 
 ##### **Team Aligness**
 
 >My another side projcects, a non-profit organization named Team Aligness (a technology enabler, research, and development communities)
 
-[Twitter](https://twitter.com/teamaligness) | [Instagram](https://www.instagram.com/teamaligness/) | [Mail](teamaligness@gmail.com) | [LinkedIn](https://linkedin.com/company/teamaligness/)
+[Twitter](https://twitter.com/teamaligness) | [Instagram](https://www.instagram.com/teamaligness/) | [Mail](mailto:teamaligness@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [LinkedIn](https://linkedin.com/company/teamaligness/)
