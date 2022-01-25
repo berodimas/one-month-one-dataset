@@ -33,7 +33,7 @@
 ## Participants
 
 - Adhi Viari N. / [@adhiviari](https://github.com/adhiviari)
-- Ibnu Amuna M.
+- Ibnu Amuna M. / [@amunamalik12](https://github.com/amunamalik12)
 
 ## Prerequisite
 
@@ -41,8 +41,8 @@
 
 | Software/Lib | Version |
 | --- | --- |
-| python | 3.7.9 |
-| scikit-learn | 0.23.2 |
+| python | 3.9.9 |
+| scikit-learn | 1.0.2 |
 | pandas | 1.2.5 |
 | matplotlib | 3.5.1 |
 | seaborn | 0.11.2 |
