@@ -57,6 +57,6 @@
 
 ##### **Team Aligness**
 
->My another side projcects, a non-profit organization named Team Aligness (a technology enabler, research, and development communities)
+>My another side projects, a non-profit organization named Team Aligness (a technology enabler, research, and development communities)
 
 [Twitter](https://twitter.com/teamaligness) | [Instagram](https://www.instagram.com/teamaligness/) | [Mail](mailto:teamaligness@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [LinkedIn](https://linkedin.com/company/teamaligness/)
