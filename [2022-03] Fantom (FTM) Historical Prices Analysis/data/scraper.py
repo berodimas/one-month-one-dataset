@@ -21,4 +21,4 @@ def scraper():
     for x in get_value:
         df = df.append(x['quote'], ignore_index=True)
     ## Write csv files based on data
-    df.to_csv('./data/{}_FTM.csv'.format(str(datetime.utcnow().date())), index=False)
+    df.to_csv('{}_FTM.csv'.format(str(datetime.utcnow().date())), index=False)
